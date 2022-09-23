@@ -1,6 +1,6 @@
 # Website for Continual Lifelong Learning Workshop @ ACML 2022
 
-## Initial setup
+## Initial setup on Github Pages
 
 - Copied files from [mmistakes/mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter). (alternatively: forking theme)
 - [Remote theme method](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#remote-theme-method) of the Minimal Mistakes theme.

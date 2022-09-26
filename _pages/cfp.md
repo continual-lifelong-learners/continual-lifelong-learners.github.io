@@ -14,7 +14,7 @@ Over recent years, there has been growing interest in developing systems that ca
 
 Despite recent advances, many challenges remain. Different studies often formalise the problem differently and use different benchmarks. Even when there are empirical successes, there is little theoretical understanding. The field of continual lifelong learning remains an important, yet challenging, problem that we hope to discuss in this workshop.
 
-The workshop will welcome submissions from a wide variety of topics aiming to address such challenges. **We invite submissions (up to 5 pages, excluding references and appendix) in the ACML 2022 format. The submission deadline is October 31st (AOE)**.  All submissions will be managed through either CMT or Openreview. The review process is double-blind so the submission should be anonymised. Accepted work will be presented as posters during the workshop, and select contributions will be invited to give spotlight talks during the workshop.
+The workshop will welcome submissions from a wide variety of topics aiming to address such challenges. **We invite submissions (up to 5 pages, excluding references and appendix) in the ACML 2022 format. The submission deadline is October 31st (AOE)**.  All submissions will be managed through either CMT or OpenReview. The review process is double-blind so submissions should be anonymised. Accepted work will be presented as posters during the workshop, and select contributions will be invited to give spotlight talks during the workshop.
 
 **We encourage submissions on the following topics, including but not limited to:**
 
@@ -25,12 +25,12 @@ The workshop will welcome submissions from a wide variety of topics aiming to ad
 * Memory-based methods for continual learning,
 * Theory for continual lifelong learning,
 * Applications of continual lifelong learning,
-* Skill Learning, Temporal Abstractions for Continual RL. 
+* Skill Learning, Temporal Abstractions for Continual RL, 
 * Unsupervised, semi-supervised and self-supervised continual learning.
 
 
-> Submission deadline: October 31st, Anywhere On Earth (AOE) 
+> Submission deadline: 31st October 2022, Anywhere On Earth (AoE) 
 > 
-> Reviewing period: November 1st-14th
+> Reviewing period: 1st-14th November 2022
 > 
-> Decisions: November 17th
+> Decisions: 17th November 2022

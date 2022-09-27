@@ -1,6 +1,8 @@
 ---
 permalink: /program/
 title: "Program"
+layout: single
+classes: wide
 ---
 
 The workshop will include 4 invited talks. The talks will cover several topics ranging from lifelong learning in reinforcement learning, to Bayesian and generative models, and applications to computer vision.

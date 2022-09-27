@@ -1,5 +1,5 @@
 ---
-permalink: /overview/
+permalink: /
 title: "Continual Lifelong Learning Workshop at ACML 2022"
 ---
 

@@ -1,6 +1,8 @@
 ---
 permalink: /cfp/
 title: "Call for Papers"
+layout: single
+classes: wide 
 ---
 
 Machine learning and deep learning often assume all the data is available at once and accessible whenever needed during training, which is restrictive.  Ideally, we want machines to learn as flexibly as humans do: humans can adapt quickly to new environments and can continue to learn throughout our lives. This is currently not possible in machine learning.

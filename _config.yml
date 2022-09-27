@@ -85,6 +85,8 @@ plugins:
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
+atom_feed:
+  hide: true
 
 defaults:
   # _posts

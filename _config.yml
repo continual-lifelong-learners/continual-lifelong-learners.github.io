@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: default
-search: true
+search: false
 #url: "https://continual-lifelong-learners.github.io"
 
 # Build settings
@@ -89,17 +89,17 @@ atom_feed:
   hide: true
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#  # _posts
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
   # _pages
   - scope:
       path: "_pages"

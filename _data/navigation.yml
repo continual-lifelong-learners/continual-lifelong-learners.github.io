@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: ./
   - title: "Call For Papers"
     url: /cfp/
   - title: "Program"

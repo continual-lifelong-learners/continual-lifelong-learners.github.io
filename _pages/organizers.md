@@ -1,7 +1,7 @@
 ---
 permalink: /organizers/
 title: "Organizers"
-layout: single
+layout: splash
 classes: wide
 ---
  <style type="text/css">
@@ -12,6 +12,8 @@ classes: wide
       float: right;
     }
  </style>
+
+# Organizers
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/siddarth.png){: .align-left style="width:120px;"}
 Siddharth Swaroop is a postdoctoral fellow in the Data to Actionable Knowledge lab at Harvard University. He completed his PhD in machine learning from University of Cambridge, UK in 2022, where he received a Microsoft Research EMEA PhD Award. He also has an MEng (2017) from University of Cambridge. His interests are in continual deep learning using probabilistic methods, Bayesian deep learning, and connections to federated learning.

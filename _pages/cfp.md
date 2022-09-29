@@ -1,9 +1,11 @@
 ---
 permalink: /cfp/
 title: "Call for Papers"
-layout: single
+layout: splash
 classes: wide 
 ---
+
+# Call for Papers
 
 Machine learning and deep learning often assume all the data is available at once and accessible whenever needed during training, which is restrictive.  Ideally, we want machines to learn as flexibly as humans do: humans can adapt quickly to new environments and can continue to learn throughout our lives. This is currently not possible in machine learning.
 Over recent years, there has been growing interest in developing systems that can adapt quickly. In *Continual Lifelong Learning*, methods can ideally handle a stream of incoming data from an ever-changing source, where revisiting data is challenging or even impossible. Ideally, such a system should be able to 

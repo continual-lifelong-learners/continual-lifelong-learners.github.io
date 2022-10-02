@@ -21,7 +21,7 @@ classes: wide
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/lu.jpg){: .align-left style="width:120px;"}
 <a href="https://x-lu.github.io/">Lu Xu</a> is a postdoctoral researcher at the Approximate Bayesian Inference Team at RIKEN Center for AI Project (AIP), Japan. She completed her PhD in Pattern Recognition and Intelligent Systems from Xi’an Jiaotong University, China in 2021. Her thesis topic was on data-efficient deep learning algorithms, targeting 3D hand pose estimation tasks. Her current research interests are in improving continual and interpretable deep learning by using Bayesian approaches.
    
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/peter.jpg){: .align-left style="width:120px;"}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/peter.png){: .align-left style="width:120px;"}
 <a href="https://team-approx-bayes.github.io/">Peter Nickl</a> is a research assistant at the Approximate Bayesian Inference Team at RIKEN Center for AI Project (AIP), Japan. He was part of the winning team of the NeurIPS 2021 Approximate Inference in Bayesian Deep Learning competition. He holds Masters degrees in mechanical engineering and economics from Technical University of Darmstadt, Germany. His thesis used techniques from probabilistic machine learning and robotics. His interests include Bayesian deep learning and reinforcement learning. He likes to use insights from cognitive science to develop autonomous and continually-adapting AI systems.
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/khimya.jpg){: .align-left style="width:120px;"}

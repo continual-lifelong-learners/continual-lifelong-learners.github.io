@@ -7,6 +7,12 @@ classes: wide
 
 # Call for Papers
 
+> Submission deadline: 31st October 2022, Anywhere On Earth (AoE) 
+> 
+> Reviewing period: 1st-14th November 2022
+> 
+> Decisions: 17th November 2022
+
 Machine learning and deep learning often assume all the data is available at once and accessible whenever needed during training, which is restrictive.  Ideally, we want machines to learn as flexibly as humans do: humans can adapt quickly to new environments and can continue to learn throughout our lives. This is currently not possible in machine learning.
 Over recent years, there has been growing interest in developing systems that can adapt quickly. In *Continual Lifelong Learning*, methods can ideally handle a stream of incoming data from an ever-changing source, where revisiting data is challenging or even impossible. Ideally, such a system should be able to 
 
@@ -33,8 +39,3 @@ The workshop will welcome submissions from a wide variety of topics aiming to ad
 * Unsupervised, semi-supervised and self-supervised continual learning.
 
 
-> Submission deadline: 31st October 2022, Anywhere On Earth (AoE) 
-> 
-> Reviewing period: 1st-14th November 2022
-> 
-> Decisions: 17th November 2022

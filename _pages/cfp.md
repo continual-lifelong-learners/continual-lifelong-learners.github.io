@@ -7,7 +7,7 @@ classes: wide
 
 # Call for Papers
 
-> Submission deadline: 31st October 2022, Anywhere On Earth (AoE) 
+> Submission deadline: 31st October 2022, Anywhere On Earth (AoE): [Submit on OpenReview](https://openreview.net/group?id=ACML.org/2022/Workshop/CLL)
 > 
 > Reviewing period: 1st-14th November 2022
 > 
@@ -24,7 +24,7 @@ Over recent years, there has been growing interest in developing systems that ca
 
 Despite recent advances, many challenges remain. Different studies often formalise the problem differently and use different benchmarks. Even when there are empirical successes, there is little theoretical understanding. The field of continual lifelong learning remains an important, yet challenging, problem that we hope to discuss in this workshop.
 
-The workshop will welcome submissions from a wide variety of topics aiming to address such challenges. **We invite submissions (up to 5 pages, excluding references and appendix) in the ACML 2022 format. The submission deadline is October 31st (AOE)**.  All submissions will be managed through either CMT or OpenReview. The review process is double-blind so submissions should be anonymised. Accepted work will be presented as posters during the workshop, and select contributions will be invited to give spotlight talks during the workshop.
+The workshop will welcome submissions from a wide variety of topics aiming to address such challenges. **We invite submissions (up to 5 pages, excluding references and appendix) in the ACML 2022 format. The submission deadline is October 31st (AOE). All submissions will be managed through OpenReview: [https://openreview.net/group?id=ACML.org/2022/Workshop/CLL](https://openreview.net/group?id=ACML.org/2022/Workshop/CLL).** The review process is double-blind so submissions should be anonymised. Accepted work will be presented as posters during the workshop, and select contributions will be invited to give spotlight talks during the workshop.
 
 **We encourage submissions on the following topics, including but not limited to:**
 

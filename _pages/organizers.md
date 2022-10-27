@@ -15,6 +15,8 @@ classes: wide
 
 # Organizers
 
+Contact email address: [continual.lifelong.learning@gmail.com](mailto:continual.lifelong.learning@gmail.com)
+
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/siddarth.png){: .align-left style="width:120px;"}
 <a href="https://siddharthswaroop.github.io/">Siddharth Swaroop</a> is a postdoctoral fellow in the Data to Actionable Knowledge lab at Harvard University. He completed his PhD in machine learning from University of Cambridge, UK in 2022, where he received a Microsoft Research EMEA PhD Award. He also has an MEng (2017) from University of Cambridge. His interests are in continual deep learning using probabilistic methods, Bayesian deep learning, and connections to federated learning.
 

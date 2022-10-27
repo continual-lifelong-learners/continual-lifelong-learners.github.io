@@ -13,3 +13,6 @@ Deep-learning methods require extremely large amounts of data and computational 
 
 **The workshop will focus on a broad range of topics covering many aspects of continual lifelong learning**, including (but not limited to): fast adaptation, forward/backward transfer, continual reinforcement learning, skill learning, abstraction and representations for lifelong learning, and relationship to similar ideas such as multi-task learning, meta learning, curriculum learning, and active learning.
 
+Please see our [Call for Papers](/cfp/). Submission deadline is 31st October 2022 AoE.
+
+Please contact [continual.lifelong.learning@gmail.com](mailto:continual.lifelong.learning@gmail.com) if you have any questions.

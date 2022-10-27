@@ -26,6 +26,8 @@ Despite recent advances, many challenges remain. Different studies often formali
 
 The workshop will welcome submissions from a wide variety of topics aiming to address such challenges. **We invite submissions (up to 5 pages, excluding references and appendix) in the ACML 2022 format. The submission deadline is October 31st (AoE). All submissions will be managed through OpenReview: [https://openreview.net/group?id=ACML.org/2022/Workshop/CLL](https://openreview.net/group?id=ACML.org/2022/Workshop/CLL).** The review process is double-blind so submissions should be anonymised. Please edit the ACML template so that the Editors section is empty/blank. Accepted work will be presented as posters during the workshop, and select contributions will be invited to give spotlight talks during the workshop.
 
+We accept submissions accepted at non-archival workshops, as well as works currently in-submission. However, submissions that are substantially similar to papers that have been previously published at conferences with proceedings may not be submitted.
+
 **We encourage submissions on the following topics, including but not limited to:**
 
 * Fast adaptation,
@@ -38,4 +40,4 @@ The workshop will welcome submissions from a wide variety of topics aiming to ad
 * Skill Learning, Temporal Abstractions for Continual RL, 
 * Unsupervised, semi-supervised and self-supervised continual learning.
 
-
+Please contact [continual.lifelong.learning@gmail.com](mailto:continual.lifelong.learning@gmail.com) if you have any questions.

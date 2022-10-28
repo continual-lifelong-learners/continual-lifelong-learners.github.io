@@ -24,7 +24,9 @@ Over recent years, there has been growing interest in developing systems that ca
 
 Despite recent advances, many challenges remain. Different studies often formalise the problem differently and use different benchmarks. Even when there are empirical successes, there is little theoretical understanding. The field of continual lifelong learning remains an important, yet challenging, problem that we hope to discuss in this workshop.
 
-The workshop will welcome submissions from a wide variety of topics aiming to address such challenges. **We invite submissions (up to 5 pages, excluding references and appendix) in the ACML 2022 format. The submission deadline is October 31st (AoE). All submissions will be managed through OpenReview: [https://openreview.net/group?id=ACML.org/2022/Workshop/CLL](https://openreview.net/group?id=ACML.org/2022/Workshop/CLL).** The review process is double-blind so submissions should be anonymised. Please edit the ACML template so that the Editors section is empty/blank. Accepted work will be presented as posters during the workshop, and select contributions will be invited to give spotlight talks during the workshop.
+The workshop will welcome submissions from a wide variety of topics aiming to address such challenges. **We invite submissions (up to 5 pages, excluding references and appendix) in the ACML 2022 format. The submission deadline is October 31st (AoE). All submissions will be managed through OpenReview: [https://openreview.net/group?id=ACML.org/2022/Workshop/CLL](https://openreview.net/group?id=ACML.org/2022/Workshop/CLL).** The review process is double-blind so submissions should be anonymised. Please edit the ACML template so that the Editors section is empty/blank. 
+
+Accepted work will be presented as **posters** during the workshop, and select contributions will be invited to give **spotlight talks** during the workshop.
 
 We accept submissions accepted at non-archival workshops, as well as works currently in-submission. However, submissions that are substantially similar to papers that have been previously published at conferences with proceedings may not be submitted.
 

@@ -7,9 +7,9 @@ classes: wide
 
 # Call for Papers
 
-> Submission deadline: 31st October 2022, Anywhere On Earth (AoE): [Submit on OpenReview](https://openreview.net/group?id=ACML.org/2022/Workshop/CLL)
+> ~~Submission deadline: 31st October 2022, Anywhere On Earth (AoE): [Submit on OpenReview](https://openreview.net/group?id=ACML.org/2022/Workshop/CLL)~~
 > 
-> Reviewing period: 1st-14th November 2022
+> ~~Reviewing period: 1st-14th November 2022~~
 > 
 > Decisions: 17th November 2022
 

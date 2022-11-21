@@ -13,6 +13,8 @@ Deep-learning methods require extremely large amounts of data and computational 
 
 **The workshop will focus on a broad range of topics covering many aspects of continual lifelong learning**, including (but not limited to): fast adaptation, forward/backward transfer, continual reinforcement learning, skill learning, abstraction and representations for lifelong learning, and relationship to similar ideas such as multi-task learning, meta learning, curriculum learning, and active learning.
 
-Please see our [Call for Papers](/cfp/). The submission deadline (31st October 2022 AoE) has passed.
+Please see our [Call for Papers](/cfp/). The submission deadline (31st October 2022 AoE) has passed. To attend the workshop, you must be registered for the ACML conference as a 'Secondary authors / Other attendees': [register here](https://www.acml-conf.org/2022/registration.html). 
 
-Please contact [continual.lifelong.learning@gmail.com](mailto:continual.lifelong.learning@gmail.com) if you have any questions.
+Please contact [continual.lifelong.learning@gmail.com](mailto:continual.lifelong.learning@gmail.com) if you have any questions. 
+
+This workshop is supported by JST CREST Grant Number JPMJCR2112.

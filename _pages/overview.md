@@ -15,6 +15,8 @@ Deep-learning methods require extremely large amounts of data and computational 
 
 Please see our [Call for Papers](/cfp/). The submission deadline (31st October 2022 AoE) has passed. To attend the workshop, you must be registered for the ACML conference as a 'Secondary authors / Other attendees': [register here](https://www.acml-conf.org/2022/registration.html). 
 
+**Accepted papers** can be found on [OpenReview](https://openreview.net/group?id=ACML.org/2022/Workshop/CLL#accept). 
+
 Please contact [continual.lifelong.learning@gmail.com](mailto:continual.lifelong.learning@gmail.com) if you have any questions. 
 
 This workshop is supported by JST CREST Grant Number JPMJCR2112.

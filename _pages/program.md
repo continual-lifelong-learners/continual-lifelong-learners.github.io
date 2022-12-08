@@ -9,6 +9,8 @@ classes: wide
 
 The workshop will be held on December 12th, 2pm-5:30pm (IST time).
 
+Accepted papers can be found on [OpenReview](https://openreview.net/group?id=ACML.org/2022/Workshop/CLL#accept).
+
 | Time (IST) | |
 |2pm | Start |
 |2-2:10 | Introduction |

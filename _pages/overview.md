@@ -19,4 +19,4 @@ Please see our [Call for Papers](/cfp/). The submission deadline (31st October 2
 
 Please contact [continual.lifelong.learning@gmail.com](mailto:continual.lifelong.learning@gmail.com) if you have any questions. 
 
-This workshop is supported by JST CREST Grant Number JPMJCR2112.
+This workshop is supported by JST CREST Grant Number JPMJCR2112, "A new Bayes-duality principle for adaptive, robust, and lifelong learning of AI systems".

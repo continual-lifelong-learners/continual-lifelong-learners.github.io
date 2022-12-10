@@ -6,7 +6,8 @@ classes: wide
 ---
 
 # Continual Lifelong Learning Workshop (ACML 2022)
-### 12th December (2-5:30pm IST), hybrid format (in-person events in Hyderabad, India)
+### 12th December (1:35pm-5:05pm IST), hybrid format (in-person events in Hyderabad, India)
+
 --------------------------------------
 
 Deep-learning methods require extremely large amounts of data and computational resources, and lack human-like natural abilities to quickly adapt to their surroundings and learn continually. Continual lifelong learning methods aim to bridge this gap between humans and machines. In this workshop, our goal is to bring together Asian researchers working on this topic, and connect them to other communities in the rest of the world. Similar workshops have taken place in other Machine Learning conferences, but they have largely focused on researchers from North America and Europe. This workshop will provide networking opportunities for researchers, allowing them to collaborate and work towards solving continual lifelong learning.

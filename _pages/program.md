@@ -7,7 +7,7 @@ classes: wide
 
 # Program
 
-The workshop will be held on December 12th, 1:35pm-5:05pm (IST time).
+The workshop will be held on December 12th, 1:35pm-5:05pm (IST time).<br>
 <span style="color:red">The program has changed: the workshop starts at 1:35pm, and the invited talk of Joseph K J has been moved to 1:45pm.</span>
 
 The workshop includes 4 invited talks. The talks will cover several topics ranging from lifelong learning in reinforcement learning, to Bayesian and generative models, and applications to computer vision.

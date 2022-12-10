@@ -16,6 +16,7 @@ Accepted papers can be found on [OpenReview](https://openreview.net/group?id=ACM
 
 For post-workshop discussions and community building, please join us at <a href="https://join.slack.com/t/continuallife-1vb9181/shared_invite/zt-1l06w1c13-jsLhltaTUFtz6VGmFOa8Kw">Slack<a/>.
 
+<span style="colors:red">The program has changed: The workshop starts at 1:35pm, and the invited talk of Joseph K J has been moved to 1:45pm.</span>
 
 | Time (IST) | Program | Speaker | Title |
 |------------|---------|---------|-------|

@@ -7,7 +7,9 @@ classes: wide
 
 # Program
 
-The workshop will be held on December 12th, 2pm-5:30pm (IST time).
+The workshop will be held on December 12th, 1:35pm-5:05pm (IST time).
+
+<span style="color:red">The program has changed: the workshop starts at 1:35pm, and the invited talk of Joseph K J has been moved to 1:45pm.</span>
 
 The workshop includes 4 invited talks. The talks will cover several topics ranging from lifelong learning in reinforcement learning, to Bayesian and generative models, and applications to computer vision.
 We also have a 30 minute discussion for the speakers, organisers, and attendees to discuss possible ways to boost research on this topic. One main topic to discuss will be to increase organisation of similar events at the other ML conferences, focusing primarily on Asian researchers.
@@ -15,8 +17,6 @@ We also have a 30 minute discussion for the speakers, organisers, and attendees 
 Accepted papers can be found on [OpenReview](https://openreview.net/group?id=ACML.org/2022/Workshop/CLL#accept).
 
 For post-workshop discussions and community building, please join us at <a href="https://join.slack.com/t/continuallife-1vb9181/shared_invite/zt-1l06w1c13-jsLhltaTUFtz6VGmFOa8Kw">Slack<a/>.
-
-<span style="color:red">The program has changed: the workshop starts at 1:35pm, and the invited talk of Joseph K J has been moved to 1:45pm.</span>
 
 | Time (IST) | Program | Speaker | Title |
 |------------|---------|---------|-------|
